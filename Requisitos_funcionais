@@ -1,0 +1,35 @@
+Requisitos Funcionais
+
+
+
+O sistema deverá manter a temperatura do resistor do kit em um valor determinado pelo usuário (temperatura máxima 80°C) 
+
+
+O sistema deve aquecer o mais rápido possível.
+
+
+O cooler deverá ser usado.
+
+
+O sistema deve fornecer uma interface local para operação
+
+
+O sistema deverá exibir a temperatura atual.
+
+
+O sistema deverá permitir o controle por comando seriais em uma interface UART. 
+
+
+Deve ser possível monitorar a velocidade de rotação do cooler.
+
+
+
+Requisitos Não Funcionais
+
+
+
+O sistema deve aquecer o mais rápido possível.
+
+
+O overshoot máximo deve ser de 1°C.
+
